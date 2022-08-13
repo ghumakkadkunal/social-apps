@@ -1,0 +1,24 @@
+.footerContainer {
+  background: #2e054e;
+  color: #fff;
+  position: sticky;
+  z-index: 3;
+  padding: 1.5rem;
+}
+
+.iconContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  color: #fff;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0.2rem;
+}
+
+.iconContainer > a {
+  text-decoration: unset;
+  color: #fff;
+}

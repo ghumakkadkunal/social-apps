@@ -7,6 +7,7 @@ import {
 //   Link,
 } from "react-router-dom";
 
+const home = lazy(() => import("./Components/Homepage/Homepage"));
 const social = lazy(() => import("./Components/Social/Social"));
 
 const RoutingComponent = (props) => {
@@ -14,9 +15,10 @@ const RoutingComponent = (props) => {
     <Suspense fallback={<div></div>}>
       <Router>
         <Switch>
-          <Route exact path="/social-apps" component={social} />
-          <Route exact path="/" render={() => <Redirect to="/social-apps" />} />
-          <Route exact path="/*" render={() => <Redirect to="/social-apps" />} />
+          {/* <Route exact path="/social-apps" component={social} /> */}
+          <Route exact path="/" component={home} />
+          <Route exact path="/" render={() => <Redirect to="/" />} />
+          <Route exact path="/*" render={() => <Redirect to="/" />} />
         </Switch>
       </Router>
     </Suspense>
