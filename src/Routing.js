@@ -14,9 +14,9 @@ const RoutingComponent = (props) => {
     <Suspense fallback={<div></div>}>
       <Router>
         <Switch>
-          <Route exact path="/social" component={social} />
-          <Route exact path="/" render={() => <Redirect to="/social" />} />
-          <Route exact path="/*" render={() => <Redirect to="/social" />} />
+          <Route exact path="/social-apps" component={social} />
+          <Route exact path="/" render={() => <Redirect to="/social-apps" />} />
+          <Route exact path="/*" render={() => <Redirect to="/social-apps" />} />
         </Switch>
       </Router>
     </Suspense>
