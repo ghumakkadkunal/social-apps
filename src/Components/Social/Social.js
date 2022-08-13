@@ -15,10 +15,15 @@ const Social = (props) => {
         <div style={{ padding: '2rem' }}>
           <div>Hi</div>
           <iframe 
-            width="420" 
-            height="315"
-            src="https://youtu.be/J5fi_Kp5BAM"
-          ></iframe>
+            width="747" 
+            height="420" 
+            src="https://www.youtube.com/embed/ZM-6wmFIvZU" 
+            title="Humnava Mere Cover | Kunal Goyal | Jubin Nautiyal | Karaoke Version" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen
+          >
+          </iframe>
         </div>
       </>
   )
