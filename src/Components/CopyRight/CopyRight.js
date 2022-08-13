@@ -4,7 +4,9 @@ import "./CopyRight.css";
 const CopyRight = () => {
   return (
     <>
-      <div className="copyrightComponent">2022 All Copyrights Reserved</div>
+      <div className="copyrightComponent">
+        Copyright © 2022. All rights reserved.
+      </div>
     </>
   )
 }

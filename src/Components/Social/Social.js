@@ -5,15 +5,7 @@ import "./Social.css";
 const Social = (props) => {
   return (
       <>
-        <div className="headerComponent">
-          <div className="headerLogo">Welcome To Our Website</div>
-          <ul className="ul-header">
-            <li>Home</li>
-            <li>Contact Us</li>
-          </ul>
-        </div>
         <div style={{ padding: '2rem' }}>
-          <div>Hi</div>
           <iframe 
             width="747" 
             height="420" 
