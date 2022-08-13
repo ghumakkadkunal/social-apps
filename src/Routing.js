@@ -16,9 +16,9 @@ const RoutingComponent = (props) => {
       <Router>
         <Switch>
           {/* <Route exact path="/social-apps" component={social} /> */}
-          <Route exact path="/" component={home} />
-          <Route exact path="/" render={() => <Redirect to="/" />} />
-          <Route exact path="/*" render={() => <Redirect to="/" />} />
+          <Route exact path="/home" component={home} />
+          <Route exact path="/" render={() => <Redirect to="/home" />} />
+          <Route exact path="/*" render={() => <Redirect to="/home" />} />
         </Switch>
       </Router>
     </Suspense>
