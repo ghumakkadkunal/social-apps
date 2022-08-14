@@ -8,17 +8,17 @@ import {
 } from "react-router-dom";
 
 const home = lazy(() => import("./Components/Homepage/Homepage"));
-// const social = lazy(() => import("./Components/Social/Social"));
+const product = lazy(() => import("./Components/ListItem/ListItem"));
 
 const RoutingComponent = (props) => {
   return (
     <Suspense fallback={<div></div>}>
       <Router>
         <Switch>
-          {/* <Route exact path="/social-apps" component={social} /> */}
           <Route exact path="/social-apps" component={home} />
+          <Route exact path="/products" component={product} />
           <Route exact path="/" render={() => <Redirect to="/social-apps" />} />
-          <Route exact path="/*" render={() => <Redirect to="/social-apps" />} />
+          <Route exact path="*" component={home} />
         </Switch>
       </Router>
     </Suspense>
