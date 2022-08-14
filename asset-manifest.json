@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.48e554d7.css",
-    "main.js": "/static/js/main.70df5e24.js",
-    "static/css/953.2991ed1b.chunk.css": "/static/css/953.2991ed1b.chunk.css",
-    "static/js/953.53bab1a7.chunk.js": "/static/js/953.53bab1a7.chunk.js",
-    "static/css/620.49b752da.chunk.css": "/static/css/620.49b752da.chunk.css",
-    "static/js/620.4f3bba14.chunk.js": "/static/js/620.4f3bba14.chunk.js",
-    "static/js/787.92a65495.chunk.js": "/static/js/787.92a65495.chunk.js",
-    "static/js/416.56df9cf7.chunk.js": "/static/js/416.56df9cf7.chunk.js",
-    "static/media/twitter.svg": "/static/media/twitter.a4f4df00bbde18db11ec0364b62f8757.svg",
-    "static/media/ig.svg": "/static/media/ig.244153c8ad0c353a12a616cc21ff86a2.svg",
-    "static/media/whatsapp.svg": "/static/media/whatsapp.99ed2ee846796943858387c39bbcffc9.svg",
-    "static/media/youtube.svg": "/static/media/youtube.2bb7d8fbaccbadd7eaf952078dba0a5e.svg",
-    "static/media/fbk.svg": "/static/media/fbk.41496bffe85ea3b7bc4e6c2a69ebd111.svg",
-    "index.html": "/index.html",
-    "main.48e554d7.css.map": "/static/css/main.48e554d7.css.map",
-    "main.70df5e24.js.map": "/static/js/main.70df5e24.js.map",
-    "953.2991ed1b.chunk.css.map": "/static/css/953.2991ed1b.chunk.css.map",
-    "953.53bab1a7.chunk.js.map": "/static/js/953.53bab1a7.chunk.js.map",
-    "620.49b752da.chunk.css.map": "/static/css/620.49b752da.chunk.css.map",
-    "620.4f3bba14.chunk.js.map": "/static/js/620.4f3bba14.chunk.js.map",
-    "787.92a65495.chunk.js.map": "/static/js/787.92a65495.chunk.js.map",
-    "416.56df9cf7.chunk.js.map": "/static/js/416.56df9cf7.chunk.js.map"
+    "main.css": "/social-apps/static/css/main.48e554d7.css",
+    "main.js": "/social-apps/static/js/main.42a9dde2.js",
+    "static/css/953.2991ed1b.chunk.css": "/social-apps/static/css/953.2991ed1b.chunk.css",
+    "static/js/953.53bab1a7.chunk.js": "/social-apps/static/js/953.53bab1a7.chunk.js",
+    "static/css/620.49b752da.chunk.css": "/social-apps/static/css/620.49b752da.chunk.css",
+    "static/js/620.4f3bba14.chunk.js": "/social-apps/static/js/620.4f3bba14.chunk.js",
+    "static/js/787.92a65495.chunk.js": "/social-apps/static/js/787.92a65495.chunk.js",
+    "static/js/416.56df9cf7.chunk.js": "/social-apps/static/js/416.56df9cf7.chunk.js",
+    "static/media/twitter.svg": "/social-apps/static/media/twitter.a4f4df00bbde18db11ec0364b62f8757.svg",
+    "static/media/ig.svg": "/social-apps/static/media/ig.244153c8ad0c353a12a616cc21ff86a2.svg",
+    "static/media/whatsapp.svg": "/social-apps/static/media/whatsapp.99ed2ee846796943858387c39bbcffc9.svg",
+    "static/media/youtube.svg": "/social-apps/static/media/youtube.2bb7d8fbaccbadd7eaf952078dba0a5e.svg",
+    "static/media/fbk.svg": "/social-apps/static/media/fbk.41496bffe85ea3b7bc4e6c2a69ebd111.svg",
+    "index.html": "/social-apps/index.html",
+    "main.48e554d7.css.map": "/social-apps/static/css/main.48e554d7.css.map",
+    "main.42a9dde2.js.map": "/social-apps/static/js/main.42a9dde2.js.map",
+    "953.2991ed1b.chunk.css.map": "/social-apps/static/css/953.2991ed1b.chunk.css.map",
+    "953.53bab1a7.chunk.js.map": "/social-apps/static/js/953.53bab1a7.chunk.js.map",
+    "620.49b752da.chunk.css.map": "/social-apps/static/css/620.49b752da.chunk.css.map",
+    "620.4f3bba14.chunk.js.map": "/social-apps/static/js/620.4f3bba14.chunk.js.map",
+    "787.92a65495.chunk.js.map": "/social-apps/static/js/787.92a65495.chunk.js.map",
+    "416.56df9cf7.chunk.js.map": "/social-apps/static/js/416.56df9cf7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48e554d7.css",
-    "static/js/main.70df5e24.js"
+    "static/js/main.42a9dde2.js"
   ]
 }
